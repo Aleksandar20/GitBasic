@@ -19,4 +19,7 @@ public class App
     public void method3() {
     	System.out.println( "Changes" );
     }
+    public void method4() {
+    	System.out.println( "Changes" );
+    }
 }
