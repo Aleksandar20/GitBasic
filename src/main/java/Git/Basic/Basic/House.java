@@ -14,5 +14,10 @@ public class House {
 	public void Draw() {
 
 	}
+	
+	public void Lock() {
+
+	}
+	
 
 }
