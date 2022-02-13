@@ -34,6 +34,9 @@ public class App
     public void method8() {
     	System.out.println( "Changes" );
     }
+    public void method9() {
+    	System.out.println( "Changes" );
+    }
     
     
     
