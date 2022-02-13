@@ -1,17 +1,9 @@
 package Git.Basic.Basic;
 
-public class House {
+public class Shape {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-	}
-
-	public void Build() {
-
-	}
-
-	public void Draw() {
 
 	}
 
