@@ -6,5 +6,8 @@ public class StartJob {
 		// TODO Auto-generated method stub
 
 	}
+	public void b() {
+		
+	}
 
 }
