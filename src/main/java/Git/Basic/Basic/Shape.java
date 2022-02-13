@@ -6,5 +6,9 @@ public class Shape {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void Show() {
+		//print new show
+	}
 
 }
