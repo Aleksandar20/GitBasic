@@ -1,16 +1,10 @@
 package Git.Basic.Basic;
 
-public class StartJob {
+public class Truck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-	}
-	public void a() {
-	
-	}
-	public void b() {
-		
 	}
 
 }
