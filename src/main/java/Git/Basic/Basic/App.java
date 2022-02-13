@@ -28,6 +28,9 @@ public class App
     public void method6() {
     	System.out.println( "Changes" );
     }
+    public void method7() {
+    	System.out.println( "Changes" );
+    }
     
     
 }
