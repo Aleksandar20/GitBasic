@@ -6,5 +6,9 @@ public class House {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void Build() {
+		
+	}
 
 }
