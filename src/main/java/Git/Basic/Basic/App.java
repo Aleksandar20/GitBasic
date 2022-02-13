@@ -22,9 +22,4 @@ public class App
     public void method4() {
     	System.out.println( "Changes" );
     }
-    public void method5() {
-    	System.out.println( "Changes" );
-    }
-    
-    
 }
