@@ -6,11 +6,13 @@ public class StartJob {
 		// TODO Auto-generated method stub
 
 	}
+<<<<<<< HEAD
 	public void b() {
 		
-	}
+=======
 	public void a() {
 	
+>>>>>>> ce3af94e1b85ae7c68b6c3a690e38c9309dfc1e9
 	}
 
 }
