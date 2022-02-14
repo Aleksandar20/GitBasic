@@ -14,6 +14,9 @@ public class Shape {
 	public void Destroy2() {
 		
 	}
+	public void Fly() {
+		System.out.println("Fly above sky");
+	}
 	
 	
 
