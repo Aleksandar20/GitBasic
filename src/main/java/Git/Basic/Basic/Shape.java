@@ -10,5 +10,11 @@ public class Shape {
 	public void Change() {
 		
 	}
+	
+	public void Destroy2() {
+		
+	}
+	
+	
 
 }
