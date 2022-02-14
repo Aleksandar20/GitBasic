@@ -17,6 +17,8 @@ public class Shape {
 	public void Fly() {
 		System.out.println("Fly above sky");
 		System.out.println("First Stash");
+		System.out.println("FCommited");
+		
 		
 	}
 	
