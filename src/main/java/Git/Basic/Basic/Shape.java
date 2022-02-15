@@ -21,6 +21,11 @@ public class Shape {
 		
 	}
 	
+	public void GetMaterial() {
+		
+	}
+	
+	
 	
 
 }
