@@ -12,5 +12,8 @@ public class StartJob {
 	public void a() {
 	
 	}
+	public void f() {
+		
+	}
 
 }
