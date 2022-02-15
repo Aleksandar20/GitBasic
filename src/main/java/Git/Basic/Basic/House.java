@@ -18,5 +18,11 @@ public class House {
 	public void Paint() {
 
 	}
+	
+	public void Draw1() {
+		
+	}
+	
+	
 
 }
