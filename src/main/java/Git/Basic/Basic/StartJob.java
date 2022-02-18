@@ -22,6 +22,7 @@ public class StartJob {
 	
 	public void z() {
 	 //this is comment 1
+		System.out.println("funciton z()");
 	}
 	
 	
