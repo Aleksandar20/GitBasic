@@ -30,6 +30,9 @@ public class StartJob {
 	public void rTim1() {
 		System.out.println("funciton r()");
 	}
+	public void rTimMain() {
+		System.out.println("funciton r()");
+	}
 	
 	
 
