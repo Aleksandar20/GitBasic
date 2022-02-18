@@ -26,5 +26,9 @@ public class Shape {
 	public void GetName() {
 
 	}
+	public void GetSize() {
+
+	}
+	
 
 }
