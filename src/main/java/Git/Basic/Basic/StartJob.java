@@ -27,6 +27,9 @@ public class StartJob {
 	public void g() {
 		System.out.println("funciton z()");
 	}
+	public void r() {
+		System.out.println("funciton r()");
+	}
 	
 	
 
