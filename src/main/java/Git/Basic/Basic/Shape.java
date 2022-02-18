@@ -26,7 +26,7 @@ public class Shape {
 	public void GetName() {
 
 	}
-	public void GetSize() {
+	public void GetSizeTim1() {
 
 	}
 	
