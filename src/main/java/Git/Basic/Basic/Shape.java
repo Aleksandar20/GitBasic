@@ -29,6 +29,9 @@ public class Shape {
 	public void GetSizeTim1() {
 
 	}
+	public void GetSizeTimA() {
+
+	}
 	
 
 }
