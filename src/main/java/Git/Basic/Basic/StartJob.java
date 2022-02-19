@@ -34,6 +34,10 @@ public class StartJob {
 		System.out.println("funciton r()");
 	}
 	
+	public void rTim1A() {
+		System.out.println("funciton r()");
+	}
+	
 	
 
 }

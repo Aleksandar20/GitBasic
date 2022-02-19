@@ -29,11 +29,11 @@ public class Shape {
 	public void GetSizeTim1() {
 
 	}
+<<<<<<< HEAD
 	public void GetSizeTim1Main() {
-
-	}
-	
+=======
 	public void GetSizeTimA() {
+>>>>>>> tim1
 
 	}
 	
