@@ -8,7 +8,7 @@ public class House {
 	}
 
 	public void Build() {
-		System.out.println("Build");
+
 	}
 
 	public void Draw() {
