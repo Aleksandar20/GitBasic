@@ -11,14 +11,15 @@ public class Test1 {
 		System.out.println("b");
 	}
 	
-	public void d() {
-		System.out.println("d");
-		
-	}
+<<<<<<< HEAD
 	public void c() {
 		//commentar 1
 		System.out.println("c");
 		
+=======
+	public void d() {
+		System.out.println("d");
+>>>>>>> main
 	}
 	
 	
