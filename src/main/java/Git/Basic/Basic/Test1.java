@@ -11,4 +11,8 @@ public class Test1 {
 		System.out.println("b");
 	}
 	
+	public void d() {
+		System.out.println("d");
+	}
+	
 }
