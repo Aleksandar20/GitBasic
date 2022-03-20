@@ -20,11 +20,12 @@ public class Test1 {
 		System.out.println("c");
 		
 	}
-<<<<<<< HEAD
+
 	public void g() {
 		//commentar 1
-		System.out.println("g");
-=======
+			System.out.println("g");
+	}
+
 	public void f() {
 		//commentar f
 		System.out.println("f");
@@ -33,7 +34,7 @@ public class Test1 {
 	public void z() {
 		//commentar z
 		System.out.println("z");
->>>>>>> tim1
+
 		
 	}
 	
