@@ -37,6 +37,12 @@ public class Test1 {
 
 		
 	}
+	public void i() {
+		//commentar i
+		System.out.println("i");
+
+		
+	}
 	
 	
 	
