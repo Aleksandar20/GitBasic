@@ -12,7 +12,9 @@ public class Test1 {
 	}
 	
 	public void c() {
+		//commentar 1
 		System.out.println("c");
+		
 	}
 	
 }
