@@ -25,6 +25,11 @@ public class Test1 {
 		System.out.println("f");
 		
 	}
+	public void z() {
+		//commentar z
+		System.out.println("z");
+		
+	}
 	
 	
 	
