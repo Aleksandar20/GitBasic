@@ -12,12 +12,16 @@ public class Test1 {
 	}
 	
 <<<<<<< HEAD
+	public void c() {
+		//commentar 1
+		System.out.println("c");
+		
+=======
 	public void d() {
 		System.out.println("d");
-=======
-	public void c() {
-		System.out.println("c");
->>>>>>> 1e1edae697bc576b5c4629916a9bb8a9c4da1dbe
+>>>>>>> main
 	}
+	
+	
 	
 }
