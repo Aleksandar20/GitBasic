@@ -6,13 +6,38 @@ public class StartJob {
 		// TODO Auto-generated method stub
 
 	}
-<<<<<<< HEAD
 	public void b() {
 		
-=======
+	}
 	public void a() {
 	
->>>>>>> ce3af94e1b85ae7c68b6c3a690e38c9309dfc1e9
 	}
+	public void f() {
+		
+	}
+	
+	public void j() {
+		
+	}
+	
+	public void z() {
+	 //this is comment 1
+		System.out.println("funciton z()");
+	}
+	public void g() {
+		System.out.println("funciton z()");
+	}
+	public void rTim1() {
+		System.out.println("funciton r()");
+	}
+<<<<<<< HEAD
+	public void rTimMain() {
+=======
+	public void rTim1A() {
+>>>>>>> tim1
+		System.out.println("funciton r()");
+	}
+	
+	
 
 }
