@@ -12,7 +12,7 @@ public class House {
 	}
 
 	public void Draw() {
-
+		System.out.println("Draw");
 	}
 	
 	public void Paint() {
