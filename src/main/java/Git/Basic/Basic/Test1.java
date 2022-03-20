@@ -20,6 +20,11 @@ public class Test1 {
 		System.out.println("c");
 		
 	}
+	public void f() {
+		//commentar f
+		System.out.println("f");
+		
+	}
 	
 	
 	
