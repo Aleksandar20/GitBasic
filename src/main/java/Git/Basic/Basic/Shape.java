@@ -16,6 +16,8 @@ public class Shape {
 		System.out.println("First Stash");
 		System.out.println("FCommited");
 		System.out.println("FCommited2");
+		System.out.println("FCommited");
+		System.out.println("FCommited2");
 
 	}
 
