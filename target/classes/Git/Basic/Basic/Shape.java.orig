@@ -16,8 +16,6 @@ public class Shape {
 		System.out.println("First Stash");
 		System.out.println("FCommited");
 		System.out.println("FCommited2");
-		System.out.println("FCommited");
-		System.out.println("FCommited2");
 
 	}
 
@@ -31,11 +29,11 @@ public class Shape {
 	public void GetSizeTim1() {
 
 	}
+<<<<<<< HEAD
 	public void GetSizeTim1Main() {
-
-	}
-	
+=======
 	public void GetSizeTimA() {
+>>>>>>> tim1
 
 	}
 	

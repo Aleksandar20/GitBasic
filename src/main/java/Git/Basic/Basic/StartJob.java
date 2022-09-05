@@ -12,5 +12,32 @@ public class StartJob {
 	public void a() {
 	
 	}
+	public void f() {
+		
+	}
+	
+	public void j() {
+		
+	}
+	
+	public void z() {
+	 //this is comment 1
+		System.out.println("funciton z()");
+	}
+	public void g() {
+		System.out.println("funciton z()");
+	}
+	public void rTim1() {
+		System.out.println("funciton r()");
+	}
+	public void rTimMain() {
+		System.out.println("funciton r()");
+	}
+	
+	public void rTim1A() {
+		System.out.println("funciton r()");
+	}
+	
+	
 
 }

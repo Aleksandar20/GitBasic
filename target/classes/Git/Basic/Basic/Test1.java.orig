@@ -37,18 +37,18 @@ public class Test1 {
 
 		
 	}
+<<<<<<< HEAD
 	public void h() {
 		//commentar z
 		System.out.println("z");
-		}
+=======
 	public void i() {
 		//commentar i
 		System.out.println("i");
-	}
+>>>>>>> dcbeae44aa7e180507fda949df0b70576ad56b56
+
 		
-	
-	
-	
+	}
 	
 	
 	
