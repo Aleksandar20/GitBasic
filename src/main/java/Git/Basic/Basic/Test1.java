@@ -37,12 +37,18 @@ public class Test1 {
 
 		
 	}
+	public void h() {
+		//commentar z
+		System.out.println("z");
+		}
 	public void i() {
 		//commentar i
 		System.out.println("i");
-
-		
 	}
+		
+	
+	
+	
 	
 	
 	
