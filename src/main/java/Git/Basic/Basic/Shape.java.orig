@@ -16,11 +16,17 @@ public class Shape {
 		System.out.println("First Stash");
 		System.out.println("FCommited");
 		System.out.println("FCommited2");
+<<<<<<< HEAD
+	
+=======
+		System.out.println("FCommited");
+		System.out.println("FCommited2");
+>>>>>>> main
 
 	}
 
 	public void GetMaterial() {
-
+		System.out.println("GetMaterialgit");
 	}
 
 	public void GetName() {
@@ -29,11 +35,11 @@ public class Shape {
 	public void GetSizeTim1() {
 
 	}
-<<<<<<< HEAD
 	public void GetSizeTim1Main() {
-=======
+
+	}
+	
 	public void GetSizeTimA() {
->>>>>>> tim1
 
 	}
 	
