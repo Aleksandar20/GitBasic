@@ -20,7 +20,7 @@ public class House {
 	}
 	
 	public void Draw1() {
-		
+		System.out.println("Draw1");
 	}
 	
 	
