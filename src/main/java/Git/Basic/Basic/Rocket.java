@@ -2,6 +2,11 @@ package Git.Basic.Basic;
 
 public class Rocket {
 	
+	
+	public void Explode() {
+		System.out.println("AutoFix");
+	}
+	
 	public void AutoFix() {
 		System.out.println("AutoFix");
 		System.out.println("AutoFix2 ");
