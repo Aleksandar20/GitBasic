@@ -10,6 +10,7 @@ public class Rocket {
 	
 	public void Navigate() {
 		System.out.println("Navigate");
+		System.out.println("Navigate2");
 		
 	}
 	
