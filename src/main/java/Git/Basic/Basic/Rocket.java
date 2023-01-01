@@ -2,6 +2,10 @@ package Git.Basic.Basic;
 
 public class Rocket {
 	
+	public void Fly() {
+		
+	}
+	
 	public void Fire() {
 		
 	}
