@@ -7,6 +7,11 @@ public class Rocket {
 		System.out.println("AutoFix");
 	}
 	
+	public void Transport() {
+		System.out.println("Transport");
+		
+	}
+	
 	public void AutoFix() {
 		System.out.println("AutoFix");
 		System.out.println("AutoFix2 ");
