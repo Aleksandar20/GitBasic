@@ -4,6 +4,8 @@ public class Rocket {
 	
 	public void AutoFix() {
 		System.out.println("AutoFix");
+		System.out.println("AutoFix2 ");
+		System.out.println("AutoFix3 ");
 	}
 	
 	public void Navigate() {
