@@ -2,6 +2,10 @@ package Git.Basic.Basic;
 
 public class Rocket {
 	
+	public void AutoFix() {
+		System.out.println("AutoFix");
+	}
+	
 	public void Navigate() {
 		System.out.println("Navigate");
 		
