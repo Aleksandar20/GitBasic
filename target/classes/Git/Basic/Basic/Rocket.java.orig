@@ -1,0 +1,47 @@
+package Git.Basic.Basic;
+
+public class Rocket {
+	
+<<<<<<< HEAD
+	
+	public void Explode() {
+		System.out.println("AutoFix");
+=======
+	public void Transport() {
+		System.out.println("Transport");
+		
+>>>>>>> fb416e57d6ebd3448bce6f39c2b9990108a03e30
+	}
+	
+	public void AutoFix() {
+		System.out.println("AutoFix");
+		System.out.println("AutoFix2 ");
+		System.out.println("AutoFix3 ");
+	}
+	
+	public void Navigate() {
+		System.out.println("Navigate");
+		System.out.println("Navigate2");
+		
+	}
+	
+	public void Boom() {
+		System.out.println("Boom");
+		System.out.println("Boom 123");
+	}
+	
+	public void Fly() {
+		System.out.println("Fly");
+	}
+	
+	public void Fire() {
+		
+	}
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+}

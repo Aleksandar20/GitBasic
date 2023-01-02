@@ -7,6 +7,9 @@ public class House {
 
 	}
 
+	public void Destroy() {
+		System.out.println("Destroy");
+	}
 	public void Build() {
 		System.out.println("Build");
 	}
