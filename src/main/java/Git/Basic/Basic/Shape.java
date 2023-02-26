@@ -11,6 +11,7 @@ public class Shape {
 		System.out.println("Change");
 		System.out.println("Change2");
 		System.out.println("Change3");
+		System.out.println("Change4");
 	}
 
 	public void Fly() {
