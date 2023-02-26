@@ -2,6 +2,14 @@ package Git.Basic.Basic;
 
 public class Rocket {
 	
+	public void Produced() {
+		System.out.println("AutoFix");
+	}
+	
+	public void Explode() {
+		System.out.println("AutoFix");
+	}
+	
 	public void Transport() {
 		System.out.println("Transport");
 		
