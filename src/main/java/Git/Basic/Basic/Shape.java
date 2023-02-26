@@ -8,7 +8,7 @@ public class Shape {
 	}
 
 	public void Change() {
-
+		System.out.println("Change");
 	}
 
 	public void Fly() {
