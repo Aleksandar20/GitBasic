@@ -10,6 +10,7 @@ public class Shape {
 	public void Change() {
 		System.out.println("Change");
 		System.out.println("Change2");
+		System.out.println("Change3");
 	}
 
 	public void Fly() {
