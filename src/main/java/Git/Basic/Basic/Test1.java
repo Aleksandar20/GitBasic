@@ -168,5 +168,14 @@ public class Test1 {
 		System.out.println("q");
 
 	}
+	
+	public void sas()
+	{
+
+		// commentar sas
+		System.out.println("sas");
+
+	}
+	
 
 }
