@@ -51,6 +51,10 @@ public class Test1 {
 		System.out.println("y");
 	}
 		
+	public void x() {
+		//commentar y
+		System.out.println("x");
+	}
 	
 	
 	
