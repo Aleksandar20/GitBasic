@@ -63,6 +63,7 @@ public class Test1 {
 	
 	public void x() {
 		//commentar x
+		System.out.println("x123");
 		System.out.println("x");
 	}
 	
