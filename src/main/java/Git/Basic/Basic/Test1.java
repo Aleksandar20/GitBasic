@@ -82,6 +82,11 @@ public class Test1 {
 		System.out.println("s");
 	}
 	
+	public void j() {
+		//commentar j
+		System.out.println("j");
+	}
+	
 	
 	
 }
