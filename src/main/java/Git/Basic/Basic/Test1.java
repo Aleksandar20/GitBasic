@@ -92,6 +92,11 @@ public class Test1 {
 		System.out.println("j");
 		}
 	
+	public void p() {
+		//commentar p
+		System.out.println("p");
+		}
+	
 	public void q() {
 		//commentar q
 		System.out.println("q");

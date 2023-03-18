@@ -83,15 +83,22 @@ public class Test1 {
 	}
 	
 <<<<<<< HEAD
+	public void q1() {
+		//commentar q1
+		System.out.println("q1");
+	}
+	
+=======
 	public void j() {
 		//commentar j
 		System.out.println("j");
-=======
+		}
+>>>>>>> main
 	public void q() {
 		//commentar q
 		System.out.println("q");
->>>>>>> bcfc6a8111e19e3d9292e5b1dedac944e9500d2a
 	}
+	
 	
 	
 	
