@@ -56,7 +56,20 @@ public class Test1 {
 		System.out.println("o");
 	}
 		
+	public void z() {
+		//commentar z
+		System.out.println("z");
+	}
 	
+	public void x() {
+		//commentar x
+		System.out.println("x");
+	}
+	
+	public void w() {
+		//commentar w
+		System.out.println("w");
+	}
 	
 	
 	
