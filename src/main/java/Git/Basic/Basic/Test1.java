@@ -77,6 +77,10 @@ public class Test1 {
 		System.out.println("r");
 	}
 	
+	public void s() {
+		//commentar s
+		System.out.println("s");
+	}
 	
 	
 	
