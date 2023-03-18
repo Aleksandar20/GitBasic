@@ -71,6 +71,10 @@ public class Test1 {
 		System.out.println("w");
 	}
 	
+	public void s() {
+		//commentar s
+		System.out.println("s");
+	}
 	
 	
 	
