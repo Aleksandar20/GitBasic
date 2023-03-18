@@ -72,18 +72,26 @@ public class Test1 {
 		System.out.println("w");
 	}
 	
-<<<<<<< HEAD
 	public void r() {
 		//commentar r
 		System.out.println("r");
 	}
 	
-=======
 	public void s() {
 		//commentar s
 		System.out.println("s");
 	}
->>>>>>> tim1
+	
+<<<<<<< HEAD
+	public void j() {
+		//commentar j
+		System.out.println("j");
+=======
+	public void q() {
+		//commentar q
+		System.out.println("q");
+>>>>>>> bcfc6a8111e19e3d9292e5b1dedac944e9500d2a
+	}
 	
 	
 	
