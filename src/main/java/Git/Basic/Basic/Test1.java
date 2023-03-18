@@ -50,6 +50,11 @@ public class Test1 {
 		//commentar y
 		System.out.println("y");
 	}
+	
+	public void o() {
+		//commentar o
+		System.out.println("o");
+	}
 		
 	
 	
