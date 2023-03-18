@@ -37,18 +37,44 @@ public class Test1 {
 
 		
 	}
-<<<<<<< HEAD
 	public void h() {
 		//commentar z
 		System.out.println("z");
-=======
+		}
 	public void i() {
 		//commentar i
 		System.out.println("i");
->>>>>>> dcbeae44aa7e180507fda949df0b70576ad56b56
-
-		
 	}
+	
+	public void y() {
+		//commentar y
+		System.out.println("y");
+	}
+	
+	public void o() {
+		//commentar o
+		System.out.println("o");
+	}
+		
+	public void z() {
+		//commentar z
+		System.out.println("z");
+	}
+	
+	public void x() {
+		//commentar x
+		System.out.println("x");
+	}
+<<<<<<< HEAD
+	
+	public void w() {
+		//commentar w
+		System.out.println("w");
+	}
+	
+=======
+>>>>>>> main
+	
 	
 	
 	
