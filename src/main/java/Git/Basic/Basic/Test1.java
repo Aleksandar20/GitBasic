@@ -160,6 +160,14 @@ public class Test1 {
 		System.out.println("qaaa");
 
 	}
+	
+	public void qas()
+	{
+
+		// commentar qas
+		System.out.println("qas");
+
+	}
 
 	public void q()
 	{
