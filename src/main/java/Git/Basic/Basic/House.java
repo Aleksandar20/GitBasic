@@ -35,6 +35,10 @@ public class House {
 		System.out.println("Draw123");
 		System.out.println("Draw3-123");
 	}
+	public void Draw12345() {
+		System.out.println("Draw12345");
+		System.out.println("Draw3-12345");
+	}
 	
 	
 
