@@ -32,8 +32,8 @@ public class Rocket {
 		System.out.println("Boom 123");
 	}
 	
-	public void Fly() {
-		System.out.println("Fly");
+	public void Fly2() {
+		System.out.println("Fly 123");
 	}
 	
 	public void Fire() {

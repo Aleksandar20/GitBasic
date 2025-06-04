@@ -27,6 +27,11 @@ public class House {
 		System.out.println("Draw1-a");
 	}
 	
+	public void Draw3() {
+		System.out.println("Draw3");
+		System.out.println("Draw3-a");
+	}
+	
 	
 
 }
