@@ -31,6 +31,10 @@ public class House {
 		System.out.println("Draw3");
 		System.out.println("Draw3-a");
 	}
+	public void Draw123() {
+		System.out.println("Draw123");
+		System.out.println("Draw3-123");
+	}
 	
 	
 
